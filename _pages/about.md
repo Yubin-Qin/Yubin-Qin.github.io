@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div style="text-align: justify;">
+
 I am **Yubin Qin**, a Ph.D. candidate in the School of Integrated Circuits at Tsinghua University, where I am advised by Prof. Shouyi Yin. Before coming to Tsinghua, I received my B.Eng. degree in Electronic Science and Technology from Southeast University in 2020, graduating with the highest GPA (3.9/4.0, Rank 1/161).
 
 My research primarily focuses on high-performance AI architecture and chip design, targeting to explore the design philosophies and paradigms for next-generation AI chips and architectures. I am particularly interested in the **algorithm-infra-chip design space exploration (DSE)**, seeking to break the traditional boundaries between layers to achieve unprecedented hardware efficiency. Currently, my goal is to architect high-performance AI computing infrastructures by leveraging emerging technologies—such as Processing-in-Memory (PIM), 3D integration, wafer-scale systems, etc.—to sustain the ever-scaling demands of future AI workloads.
@@ -37,7 +39,9 @@ I have published over 20 papers (8 as first author) in top venues like **ISSCC, 
 
 _(Feel free to reach out via email for research discussions or collaborations!)_
 
-### 🏆 Selected Awards & Honors
+</div>
+
+<!-- ### 🏆 Selected Awards & Honors
 
 - **ISSCC 2025 Highlight**, the only awarded work from a Far East affiliation.
 - **Top 10 Advances in China's Chip Science**.
@@ -46,4 +50,4 @@ _(Feel free to reach out via email for research discussions or collaborations!)_
 - **National Scholarship**, awarded multiple times during Ph.D. and B.Eng. studies.
 - **Baosteel Excellent Student Award**, Southeast University (Top 8 students).
 - **Top 10 Research Advances in China's Semiconductor Industry** (Nominee).
-- **ISCA/VLSI Student Grants**.
+- **ISCA/VLSI Student Grants**. -->
