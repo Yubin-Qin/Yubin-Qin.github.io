@@ -35,9 +35,10 @@ I have published over 20 papers (8 as first author) in top venues like **ISSCC, 
 
 <!-- Currently, I am an AI Chip Microarchitecture Intern at ByteDance. Following the completion of my Ph.D. this summer, I look forward to beginning the next chapter of my career as a GPGPU Architect at Alibaba T-Head. -->
 
-*(Feel free to reach out via email for research discussions or collaborations!)*
+_(Feel free to reach out via email for research discussions or collaborations!)_
 
 ### 🏆 Selected Awards & Honors
+
 - **ISSCC 2025 Highlight**, the only awarded work from a Far East affiliation.
 - **Top 10 Advances in China's Chip Science**.
 - **Deng Jiaxian Scholarship**, Tsinghua University (Top 20 out of 46,000+ students).
