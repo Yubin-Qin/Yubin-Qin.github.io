@@ -27,7 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div style="text-align: justify;">
 
 I am **Yubin Qin**, a Ph.D. candidate in the School of Integrated Circuits at Tsinghua University, where I am advised by Prof. Shouyi Yin. Before coming to Tsinghua, I received my B.Eng. degree in Electronic Science and Technology from Southeast University in 2020, graduating with the highest GPA (3.9/4.0, Rank 1/161).
 
@@ -39,7 +38,6 @@ I have published over 20 papers (8 as first author) in top venues like **ISSCC, 
 
 _(Feel free to reach out via email for research discussions or collaborations!)_
 
-</div>
 
 <!-- ### 🏆 Selected Awards & Honors
 
@@ -51,3 +49,9 @@ _(Feel free to reach out via email for research discussions or collaborations!)_
 - **Baosteel Excellent Student Award**, Southeast University (Top 8 students).
 - **Top 10 Research Advances in China's Semiconductor Industry** (Nominee).
 - **ISCA/VLSI Student Grants**. -->
+
+<style>
+  article p {
+    text-align: justify;
+  }
+</style>
