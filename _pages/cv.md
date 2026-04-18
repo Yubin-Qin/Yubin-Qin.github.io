@@ -4,9 +4,12 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+# 主下载按钮默认指向英文版
+cv_pdf: /assets/pdf/YubinQin_CV_EN.pdf
+description: >
+  You can download my CV in English and Simplifed Chinese here: 
+  [**[English Version]**](/assets/pdf/YubinQin_CV_EN.pdf) | 
+  [**[中文版简历]**](/assets/pdf/YubinQin_CV_CN.pdf)
 toc:
   sidebar: left
 ---

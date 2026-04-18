@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I'm Yubin Qin, a Ph.D. Candidate at Tsinghua University. (This homepage is still in-progress)
+subtitle: ""
 
 profile:
   align: right
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in the Department of Integrated Circuits at Tsinghua University, where I am advised by Prof. Shouyi Yin. Before coming to Tsinghua, I received my B.Eng. degree in Electronic Science and Technology from Southeast University in 2020, graduating with the highest GPA (3.9/4.0, Rank 1/161).
+I am **Yubin Qin**, a Ph.D. candidate in the School of Integrated Circuits at Tsinghua University, where I am advised by Prof. Shouyi Yin. Before coming to Tsinghua, I received my B.Eng. degree in Electronic Science and Technology from Southeast University in 2020, graduating with the highest GPA (3.9/4.0, Rank 1/161).
 
-My research primarily focuses on energy-efficient AI processors, high-performance AI architecture and chip design. My research focuses on defining the design philosophies and paradigms for next-generation AI chips and architectures. I am particularly interested in the **algorithm-infra-chip design space exploration (DSE)**, seeking to break the traditional boundaries between layers to achieve unprecedented hardware efficiency. My goal is to architect high-performance AI computing infrastructures by leveraging emerging technologies—such as Processing-in-Memory (PIM), 3D integration, wafer-scale systems, etc.—to sustain the ever-scaling demands of future AI workloads.
+My research primarily focuses on high-performance AI architecture and chip design, targeting to explore the design philosophies and paradigms for next-generation AI chips and architectures. I am particularly interested in the **algorithm-infra-chip design space exploration (DSE)**, seeking to break the traditional boundaries between layers to achieve unprecedented hardware efficiency. Currently, my goal is to architect high-performance AI computing infrastructures by leveraging emerging technologies—such as Processing-in-Memory (PIM), 3D integration, wafer-scale systems, etc.—to sustain the ever-scaling demands of future AI workloads.
 
 I have published over 20 papers (8 as first author) in top venues like **ISSCC, ISCA, JSSC, and VLSI**. My research on LLM acceleration was honored as an **ISSCC 2025 Highlight**—the sole winner from the Far East in its session. I have completed multiple 22/28nm tape-outs and designed neural network IPs that are now deployed in over 10 million commercial chips.
 
