@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "You can download my CV in English and Simplifed Chinese here:  [**[English Version]**](/assets/pdf/YubinQin_CV_EN.pdf) |  [**[中文版简历]**](/assets/pdf/YubinQin_CV_CN.pdf)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
