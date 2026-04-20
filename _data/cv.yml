@@ -3,11 +3,10 @@ cv:
   label: AI Chip Architect / Ph.D. Candidate
   email: qinyb98@gmail.com
   location: Beijing, China
-  image: ""
   summary: |
     Focusing on energy-efficient AI processors, high-performance AI chips, and algorithm-infra-chip co-design.
 
-    📥 **Download PDF:** [English Version](/assets/pdf/YubinQin_CV_EN.pdf) | [中文版简历](/assets/pdf/YubinQin_CV_CN.pdf)
+    📥 **Download PDF:** [English Version](https://yubin-qin.github.io/assets/pdf/YubinQin_CV_EN.pdf) | [中文版简历](https://yubin-qin.github.io/assets/pdf/YubinQin_CV_CN.pdf)
 
   social_networks:
     - network: GitHub
@@ -21,7 +20,7 @@ cv:
     street: Tsinghua University
     city: Beijing
     region: Beijing
-    postalCode: 100084
+    postalCode: "100084"
     countryCode: CN
 
   sections:
@@ -81,7 +80,7 @@ cv:
         summary: The only awarded team from the Far East for our work on AI chips.
 
       - title: Special-Class Scholarship Nomination
-        date: 2024, 2025
+        date: 2025, 2024
         awarder: Tsinghua University
         summary: Two-time nominee for the highest student honor at Tsinghua University.
 
@@ -91,7 +90,7 @@ cv:
         summary: Top 20 out of 46,000+ students.
 
       - title: National Scholarship
-        date: 2018, 2024
+        date: 2024, 2018
         awarder: Ministry of Education, China
 
       - title: Research Excellence Award
@@ -129,45 +128,68 @@ cv:
       - title: Philips Scholarship
         date: 2017
         awarder: Southeast University / Philips Inc.
-
     Publications:
       - title: "AMBER: A Unified Accelerator for Multi-Precision LLM Inference Exploiting Bit-Level Redundancy and Reconfigurability"
-        authors: "Qin Y, Wang Y, et al."
+        authors:
+          - Qin Y
+          - Wang Y
+          - et al.
         publisher: "ACM/IEEE Design Automation Conference (DAC)"
         releaseDate: "2026"
 
       - title: "MoBiLE: Efficient Mixture-of-Experts Inference on Consumer GPU with Mixture of Big Little Experts"
-        authors: "Zhao Y, Qin Y, et al."
+        authors:
+          - Zhao Y
+          - Qin Y
+          - et al.
         publisher: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
         releaseDate: "2026"
 
       - title: "An 88.36TOPS/W Bit-Level-Weight-Compressed Large-Language-Model Accelerator with Cluster-Aligned INT-FP-GEMM and Bi-Dimensional Workflow Reformulation"
-        authors: "Qin Y, Wang Y, et al."
+        authors:
+          - Qin Y
+          - Wang Y
+          - et al.
         publisher: "IEEE International Solid-State Circuits Conference (ISSCC)"
         releaseDate: "2025"
 
       - title: "Ayaka: A Versatile Transformer Accelerator With Low-Rank Estimation and Heterogeneous Dataflow"
-        authors: "Qin Y, Wang Y, et al."
+        authors:
+          - Qin Y
+          - Wang Y
+          - et al.
         publisher: "IEEE Journal of Solid-State Circuits (JSSC)"
         releaseDate: "2024"
 
       - title: "MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition"
-        authors: "Qin Y, Wang Y, et al."
+        authors:
+          - Qin Y
+          - Wang Y
+          - et al.
         publisher: "ACM/IEEE Annual International Symposium on Computer Architecture (ISCA)"
         releaseDate: "2024"
 
       - title: "A 52.01 TFLOPS/W Diffusion Model Processor with Inter-Time-Step Convolution-Attention-Redundancy Elimination and Bipolar Floating-Point Multiplication"
-        authors: "Qin Y, Wang Y, et al."
+        authors:
+          - Qin Y
+          - Wang Y
+          - et al.
         publisher: "IEEE Symposium on VLSI Technology and Circuits (VLSI)"
         releaseDate: "2024"
 
       - title: "A 28nm 49.7TOPS/W Sparse Transformer Processor with Random-Projection-Based Speculation, Multi-Stationary Dataflow, and Redundant Partial Product Elimination"
-        authors: "Qin Y, Wang Y, et al."
+        authors:
+          - Qin Y
+          - Wang Y
+          - et al.
         publisher: "IEEE Asian Solid-State Circuits Conference (A-SSCC)"
         releaseDate: "2023"
 
       - title: "FACT: FFN-Attention Co-optimized Transformer Architecture with Eager Correlation Prediction"
-        authors: "Qin Y, Wang Y, et al."
+        authors:
+          - Qin Y
+          - Wang Y
+          - et al.
         publisher: "ACM/IEEE Annual International Symposium on Computer Architecture (ISCA)"
         releaseDate: "2023"
 
