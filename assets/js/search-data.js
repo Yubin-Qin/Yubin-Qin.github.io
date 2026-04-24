@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "My resume.",
@@ -28,16 +35,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-work-on-energy-efficient-edge-llm-acceleration-presented-at-isscc-2025-in-san-francisco",
+          title: 'Our work on energy-efficient edge LLM acceleration presented at ISSCC 2025 in San...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-work-on-efficient-speculative-llm-decoding-uploaded-to-arxiv",
+          title: 'Our work on efficient speculative LLM decoding uploaded to arXiv.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-work-on-computing-in-network-for-llm-processors-presented-at-a-sscc-2025-in-daejeon-korea",
+          title: 'Our work on Computing-in-Network for LLM processors presented at A-SSCC 2025 in Daejeon,...',
+          description: "",
+          section: "News",},{id: "news-our-work-mobile-efficient-moe-inference-on-consumer-gpus-presented-at-asp-dac-2026-in-hong-kong",
+          title: 'Our work MoBiLE, efficient MoE inference on consumer GPUs, presented at ASP-DAC 2026...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-amber-a-multi-precision-llm-accelerator-exploiting-bit-level-redundancy-accepted-at-dac-2026",
+          title: 'Our paper on AMBER, a multi-precision LLM accelerator exploiting bit-level redundancy, accepted at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
