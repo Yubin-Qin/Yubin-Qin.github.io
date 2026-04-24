@@ -50,6 +50,7 @@ npx prettier . --write
 ## Critical configuration rules
 
 When modifying `_config.yml`, these must be consistent:
+
 - **This is a personal site:** `url: https://yubin-qin.github.io` + `baseurl:` (empty)
 - **YAML quoting:** Quote any string value containing `:`, `&`, or `#` — e.g., `title: "My: Site"`
 - **Feature toggles** use `enable_*` keys in `_config.yml` (e.g., `enable_darkmode`, `enable_math`)
@@ -72,6 +73,7 @@ When modifying `_config.yml`, these must be consistent:
 ## More info
 
 Deeper references are available in these files:
+
 - [AGENTS.md](AGENTS.md) — full agent guidelines with links to all instruction files
 - [`.github/copilot-instructions.md`](.github/copilot-instructions.md) — tech stack details, CI/CD, pitfalls
 - [INSTALL.md](INSTALL.md) — setup and deployment
